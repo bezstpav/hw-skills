@@ -32,3 +32,8 @@ request the intended repository before adding that dependency.
 [VALIDATION.md](VALIDATION.md) distinguishes documentation checks and actual
 instrument verification. A command in a manual is not proof of acceptance by
 an attached instrument or firmware revision.
+
+## Support this project
+
+If you find this project useful, please give it a star on
+[GitHub](https://github.com/bezstpav/hw-skills). It helps others discover it.
