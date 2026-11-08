@@ -2,8 +2,12 @@
 
 [Manufacturer product and manuals](https://uni-trendus.com/products/udp3305s-e)
 provide the model-specific command reference.
+[UDP3000S user manual](https://storage.googleapis.com/uni-tdocuments/Library/UDP3000S%20Series%20DC%20Power%20Supplies%20-%20User%20Manual.pdf)
+covers connections and front-panel operation. The manufacturer's
+[programming-manual download](https://storage.googleapis.com/uni-tdocuments/Library/UDP3000S%20Series%20DC%20Power%20Supplies%20-%20Programming%20Manual.pdf)
+and the accessible regional
 [UDP3000S programming manual](https://www.uni-trend.pl/images/pliki/UDP3305SE/UDP3000S-Programming-Manual.pdf)
-documents VXI-11 LAN addressing. Prefer the actual model/firmware manual if it
+document VXI-11 LAN addressing. Prefer the actual model/firmware manual if it
 differs. Do not assume raw TCP port 5025 solely because another supply uses it.
 
 ```sh

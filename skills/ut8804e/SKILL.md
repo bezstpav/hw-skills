@@ -36,3 +36,12 @@ ut8804e --serial SERIAL_FROM_LIST read --seconds 5
 Use the package's [protocol reference](https://github.com/bezstpav/unit-ut8804e/blob/main/PROTOCOL.md)
 when decoding packets. Keep hardware-tested functions distinct from synthetic
 or simulated tests; do not generalize one accepted command to every mode.
+
+## Manufacturer documentation
+
+Use the [manufacturer product/download page](https://uni-trendus.com/products/ut8804e)
+and [UT8804E user manual](https://storage.googleapis.com/uni-tdocuments/Library/UT8804E%20Digital%20Multimeters%20-%20User%20Manual_HQ.pdf)
+for front-panel operation. The package's [manuals guide](https://github.com/bezstpav/unit-ut8804e/blob/main/MANUALS.md)
+records clock-setting instructions and the misleading programming-download
+label. The current API has no clock-set command; do not infer one from another
+model's manual or claim that a requested clock change was performed.

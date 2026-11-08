@@ -20,3 +20,12 @@ The PSU rule is: verify and, if needed, enable **existing** OVP/OCP on the task'
 channel only; never change threshold values or disable protections. Protection
 requirements which prevent the operation are reported to the user. Other
 channels remain untouched.
+
+## Manufacturer-link update, 2026-11-08
+
+Added direct user-manual links and publisher download pages, including the
+UT8804E clock-setting/API limitation and the programming-download applicability
+caveat. Reviewed source titles/model scope and checked skill metadata, local
+links and public content. Link availability does not validate instrument
+commands. No instrument connection, clock write or other hardware operation was
+performed for this documentation update.

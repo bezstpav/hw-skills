@@ -1,5 +1,10 @@
 # Connection and acquisition
 
+Manufacturer documentation:
+
+- [DHO800 user guide](https://www.rigol.com/dam/global/downloads/brochures/en/user-manual/oscillosopes/DHO800_UserGuide_EN.pdf): probe connections, front-panel controls and acquisition operation.
+- [RIGOL document downloads](https://www.rigolna.com/support/downloads/): locate the current DHO800 model/revision when a direct PDF is moved.
+
 Command authority: [Rigol DHO800/900 Programming Guide](https://download.rigol.com/en/Manual/Digital%20Oscilloscope/DHO800/DHO800900_ProgrammingGuide_EN.pdf).
 Optional MCP integration: [rigol-mcp](https://github.com/gloveboxes/rigol-mcp).
 Check whether a compatible connector is actually available before using it;

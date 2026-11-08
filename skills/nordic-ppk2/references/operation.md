@@ -5,6 +5,12 @@ Preferred interactive tool: Nordic's
 Use the [official PPK2 guide](https://docs.nordicsemi.com/r/bundle/ug_ppk2/page/ug/ppk/ppk_user_guide_intro.html)
 for connections and specifications.
 
+Read the mode-specific wiring instructions before changing connections:
+[Source Meter mode](https://docs.nordicsemi.com/r/bundle/ug_ppk2/page/ug/ppk/measure_current_source_meter.html)
+and [Ampere Meter mode](https://docs.nordicsemi.com/r/bundle/ug_ppk2/page/ug/ppk/measure_current_ampere_meter.html).
+The official user guide is the hardware authority; a community Python API is
+not a replacement instrument manual.
+
 Nordic documents DUT/external voltage from 0.8 to 5.0 V; maximum admissible
 current differs by mode: source 600 mA, ampere 1 A continuous. These are hardware
 limits, not arbitrary selectable current-trip settings. Verify the current

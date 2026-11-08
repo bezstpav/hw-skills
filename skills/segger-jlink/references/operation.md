@@ -1,6 +1,11 @@
 # Commander recipes
 
-Sources: [SEGGER J-Link Commander](https://kb.segger.com/J-Link_Commander) and
+Start with SEGGER's [UM08001 J-Link / J-Trace user guide](https://kb.segger.com/UM08001)
+for probe connections and software behavior. The [official downloads page](https://www.segger.com/downloads/jlink)
+provides the versioned PDF manual and software package; choose the documentation
+matching the installed release.
+
+Command references: [SEGGER J-Link Commander](https://kb.segger.com/J-Link_Commander) and
 [command strings](https://kb.segger.com/J-Link_Command_Strings).
 Use the installed version's syntax. Linux/macOS typically provide `JLinkExe`;
 Windows provides `JLink.exe`. Select a specific probe when more than one exists.
